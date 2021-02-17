@@ -1,4 +1,4 @@
-# IBM-Data-Science-Capstone
+# IBM Data Science Capstone Project - Yasmine Mahmoud
 
 # The Best Neighborhood in Toronto to open a Gluten Free Restaurant and Bakery
 
@@ -21,15 +21,17 @@
 
 ### Since people around the world are becoming more and more conscious of what they put into their bodies and how that impacts their health, opening a Gluten Free Restaurant and Bakery in Toronto will attract a large audience, not only those affected with Cliac disease.
 
-### This project demostrates to investors that opening a Gluten Free Restaurant and Bakery is a lucrative business idea.
+### This project demostrates to investors that opening a Gluten Free Bakery is a lucrative business idea.
 
 
 ## 4. The Data
 
-### The following Datasets contain various unique information about Toronto and its neighborhoods to discover the best spot to open a Gluten free Restaurant and Bakery:
+### The following Datasets contain various unique information about Toronto and its neighborhoods to discover the best spot to open a Gluten free Bakery:
   
   ### 4.1 Foursquare Location Data: to get the location and venue information (https://developer.foursquare.com/docs)
   ### 4.2 Neighborhood Profiles Data: To get detailed information about each neighborhood in Toronto. (https://open.toronto.ca/dataset/neighbourhood-profiles/)
   ### 4.3 Neighbourhoods Dataset: To get information about Toronto neighborhoods such as location, and the name of all the neighborhoods present in Toronto. (https://open.toronto.ca/dataset/neighbourhoods/)
   
 ## 5. Methodology
+
+### After cleaning and exploring the data, we will apply the K-means machine learning algorithm to create clusters of Toronto neughborhoods and choose the best spot(s) to open a bakery.
